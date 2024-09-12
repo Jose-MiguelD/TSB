@@ -1,4 +1,8 @@
-#h1{
-font-size: 15px;
-text-align: right;
+@import url('fonts.css');
+@import url('nav.css');
+
+header{
+    display: flex;
+    width: 100%;
 }
+
